@@ -1,9 +1,8 @@
 # Network Pruning via Performance Maximization
 PyTorch Implementation of [Network Pruning via Performance Maximization](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.pdf) (CVPR 2021).
-
-Code uploaded.
 # Requirements
-pytorch 1.7.1  
+pytorch==1.7.1  
+torchvision==0.8.2
 # Usage
 To train a base model
 ```
