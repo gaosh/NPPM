@@ -22,8 +22,8 @@ To finetune the model
 CUDA_VISIBLE_DEVICES=0 python train_model.py --train_base False
 ```
 # Citation
-```
 If you found this repository is helpful, please consider to cite:
+```
 @InProceedings{Gao_2021_CVPR,
     author    = {Gao, Shangqian and Huang, Feihu and Cai, Weidong and Huang, Heng},
     title     = {Network Pruning via Performance Maximization},
