@@ -1,7 +1,6 @@
 from train import *
 from utils import *
 #from models.resnet_gate import ResNet as ResNet_gate
-from models.resnet_small import ResNet
 from models.resnet_hyper import ResNet as ResNet_hyper
 from models.hypernet import Simplified_Gate, PP_Net, Episodic_mem, Simple_PN
 from torch.optim.lr_scheduler import MultiStepLR
